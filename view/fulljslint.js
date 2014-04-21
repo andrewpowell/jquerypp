@@ -49,10 +49,10 @@ SOFTWARE.
         reason    : The problem
         evidence  : The text line in which the problem occurred
         raw       : The raw message before the details were inserted
-        a         : The first detail
-        b         : The second detail
-        c         : The third detail
-        d         : The fourth detail
+        a         : The first landing
+        b         : The second landing
+        c         : The third landing
+        d         : The fourth landing
     }
 
     If a fatal error was found, a null will be the last element of the
